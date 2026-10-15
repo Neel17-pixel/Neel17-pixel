@@ -6,15 +6,15 @@
 ## Skills
 
 - Core Java ⭐⭐⭐
-- Spring Framework ⭐⭐
 - SQL ⭐⭐⭐
 - Python ⭐⭐
 - JavaScript ⭐⭐
-- React ⭐
+- MERN ⭐⭐
 
 ## Currently Exploring
 
-- AWS Cloud
+- Spring Framework
+- AWS Cloud 
 
 ## Connect With Me
 
