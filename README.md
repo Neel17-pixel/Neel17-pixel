@@ -6,6 +6,7 @@
 ## Skills
 
 - Core Java ⭐⭐⭐
+- Problem Solving ⭐⭐
 - SQL ⭐⭐⭐
 - Python ⭐⭐
 - JavaScript ⭐⭐
